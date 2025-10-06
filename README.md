@@ -52,11 +52,17 @@ This project demonstrates my understanding of:
 📁 Project Structure
 house-prices-regression/
 │
+
 ├── house_price.ipynb          # main notebook
+
 ├── requirements.txt           # dependencies
+
 ├── submission.csv             # sample submission file
+
 ├── README.md                  # project description
+
 └── .gitignore                 # ignored files (data, checkpoints)
+
 🔮 Future Improvements
 
 Implement ensemble methods (XGBoost, LightGBM, CatBoost)
@@ -66,3 +72,4 @@ Add cross-validation and grid search for hyperparameter tuning
 Apply log transformation to target and selected skewed features
 
 Deploy a small Streamlit web app for interactive house price predictions
+
